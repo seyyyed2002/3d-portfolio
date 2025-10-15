@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Amiri', serif;
+}
+
+.arabic-text {
+  font-family: 'Amiri', serif;
+  line-height: 2.5;
+  font-size: 1.1rem;
+}
